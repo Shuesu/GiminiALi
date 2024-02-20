@@ -22,7 +22,6 @@ root.render(
     <About />
     <Result />
     <Free />
-   
   </React.StrictMode>
 );
 
